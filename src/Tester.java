@@ -8,7 +8,7 @@ public class Tester {
             sun add=new sun();
 
             add.heat="100";
-            add.temp=500;
+            add.temp="900";
             add.raduis="200km";
     }
 }
