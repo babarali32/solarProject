@@ -5,6 +5,10 @@ public class Tester {
         milkyway.moon="2";
         milkyway.earth="3";
         
+            sun add=new sun();
 
+            add.heat="100";
+            add.temp=500;
+            add.raduis="200km";
     }
 }
