@@ -10,5 +10,9 @@ public class Tester {
             add.heat="100";
             add.temp="900";
             add.raduis="200km";
+
+            planet2 p2=new planet2();
+            p2.color2="indigo";
+            p2.size2="2 km";
     }
 }
