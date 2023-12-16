@@ -1,6 +1,6 @@
 public class sun {
     String heat;
-    String temp;
+    int temp;
     String raduis;
 
 }
