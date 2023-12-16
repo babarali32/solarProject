@@ -18,6 +18,9 @@ public class Tester {
             planet01 Planet1=new planet01();
             Planet1.color="red";
             Planet1.size="3400/km";
+            //-- moon 2 is also added
+        moon2 m2=new moon2();
+        m2.m2distance="384400/km";
 
     }
 }
