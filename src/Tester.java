@@ -8,7 +8,7 @@ public class Tester {
             sun add=new sun();
 
             add.heat="100";
-            add.temp="900";
+            add.temp=200;
             add.raduis="200km";
 
             planet2 p2=new planet2();
