@@ -14,5 +14,10 @@ public class Tester {
             planet2 p2=new planet2();
             p2.color2="indigo";
             p2.size2="2 km";
+
+            planet01 Planet1=new planet01();
+            Planet1.color="red";
+            Planet1.size="3400/km";
+
     }
 }
