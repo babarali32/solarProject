@@ -15,6 +15,14 @@ public class Tester {
             p2.color2="indigo";
             p2.size2="2 km";
 
+      
+        System.out.println("-----------------------");
+        moon1 first=new moon1();
+        first.firsMan01="Neil Armstrong";
+        first.land2023="india";
+
+      
+
             planet01 Planet1=new planet01();
             Planet1.color="red";
             Planet1.size="3400/km";
@@ -22,5 +30,6 @@ public class Tester {
         moon2 m2=new moon2();
         m2.m2distance="384400/km";
 
+      
     }
 }
