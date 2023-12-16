@@ -14,5 +14,9 @@ public class Tester {
             planet2 p2=new planet2();
             p2.color2="indigo";
             p2.size2="2 km";
+        System.out.println("-----------------------");
+        moon1 first=new moon1();
+        first.firsMan01="Neil Armstrong";
+        first.land2023="india";
     }
 }
